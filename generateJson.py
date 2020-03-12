@@ -5,6 +5,7 @@ csvfile = open('dashboards.csv', 'r')
 jsonfile = open('dashboards.json', 'w')
 
 reader = csv.DictReader( csvfile)
+rows = []
 for row in reader:
-    json.dump(row, jsonfile)
-    jsonfile.write('\n')
+    rows.append(row);
+json.dump(rows, jsonfile)
