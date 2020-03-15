@@ -25,7 +25,7 @@
  },
  {
   "type": "dashboard",
-  "title": "HealthMap",
+  "title": "ncov2019",
   "description": " aggregate data from around the world and updates every minute",
   "url": "https://ncov2019.live/data"
  },
@@ -34,15 +34,6 @@
   "title": "CDC USA",
   "description": "Coronavirus Disease 2019 (COVID-19) in the U.S.",
   "url": "https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html"
- },
- {
-  "type": "dashboard",
-  "title": "Harvard University",
-  "description": "Center for Geographic Analysis",
-  "url": " Harvard University",
-  "null": [
-   "https://bit.ly/31DR6h4"
-  ]
  },
  {
   "type": "dashboard",
