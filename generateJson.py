@@ -8,4 +8,4 @@ reader = csv.DictReader( csvfile)
 rows = []
 for row in reader:
     rows.append(row);
-json.dump(rows, jsonfile)
+json.dump(rows, jsonfile, indent=1)
