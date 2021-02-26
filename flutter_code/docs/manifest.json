@@ -1,0 +1,23 @@
+{
+    "name": "I C U coronavirus ",
+    "short_name": "Coronavirus",
+    "start_url": ".",
+    "display": "minimal-ui",
+    "background_color": "#363636",
+    "theme_color": "#b27300",
+    "description": "Project coronavirus viz.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
